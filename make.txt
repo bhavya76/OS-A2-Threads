@@ -1,0 +1,3 @@
+gcc q2.c -o q2
+gcc -pthread q1.c -o q1
+chmod u+x bash1 bash2 bash3
